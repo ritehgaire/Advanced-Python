@@ -1,0 +1,12 @@
+2024-06-28 18:07:22,023 - Hello! Welcome to the ATM Depot!
+2024-06-28 18:07:32,733 - Authentication successful.
+2024-06-28 18:07:38,388 - Amount Deposited: 50.0
+2024-06-28 18:07:38,388 - Transaction Info:
+2024-06-28 18:07:38,389 - Status: Successful
+2024-06-28 18:07:38,389 - Transaction #360669
+2024-06-28 18:13:22,361 - Non-numeric value entered for withdrawal.
+2024-06-28 18:13:22,361 - Amount Withdrawn: N/A
+2024-06-28 18:13:22,362 - Transaction Info:
+2024-06-28 18:13:22,362 - Status: Failed
+2024-06-28 18:13:22,362 - Transaction #757225
+2024-06-28 18:13:22,362 - Available Balance = 150.0
